@@ -7,8 +7,8 @@ Hey there! I'm Sla0ui, a passionate computer science student and programmer with
 ## My Skills
 
 - **Programming Languages:** Python, C/C++
-- **Frameworks and Libraries:** Django, Flask, NumPy, Pandas
-- **Database Technologies:** MySQL, SQLite, PostgreSQL
+- **Frameworks and Libraries:** Flask, Pandas
+- **Database Technologies:** MySQL, SQLite,
 - **Version Control:** Git, GitHub
 - **Software Development:** Object-Oriented Programming, Data Structures, Algorithms
 - **User Interface Design:** Tkinter, PyQt
